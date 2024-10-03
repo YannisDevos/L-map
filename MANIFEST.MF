@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: main.MainGraphics
+Class-Path: lib/jgraph-core-1.5.1.jar lib/jheaps-0.14.jar lib/junit-platform-console-standalone.jar lib/sae_s2_2024.jar
